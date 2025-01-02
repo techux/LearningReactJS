@@ -1,0 +1,51 @@
+body {
+    background-color: rgb(206, 232, 255);
+    font-family: cursive;
+    text-align: center;
+}
+
+.box {
+    /* background-color: aqua; */
+    text-align: center;
+    justify-self: center;
+    border: 2px solid black;
+    border-radius: 5px;
+    margin: 50px;
+    max-width: 60%;
+    padding-bottom: 20px;
+    box-shadow: 10px 10px 10px gray;
+}
+
+
+.header {
+    background-color: black;
+    color: white;
+    padding: 20px;
+    border-bottom: 5px dashed rgb(206, 232, 255);
+    margin-bottom: 20px;
+}
+
+.counter {
+    margin: 10px;
+    font-size: 24px;
+}
+
+button {
+    background-color: rgb(206, 232, 255);
+    border: 2px solid rgb(0, 0, 0) ;
+    border-radius: 3px;
+    margin: 20px;
+    padding: 10px;
+    font-weight: bold;
+}
+
+button:hover{
+    background-color: rgb(0, 0, 0) ;
+    color: white;
+    cursor: pointer;
+}
+
+button:active{
+    background-color: gray ;
+    color: black;
+}
