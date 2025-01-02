@@ -9,3 +9,4 @@ This repo serves as a record of my ReactJS learning path, including the small pr
 2. [Basic Form Submission and Handling](https://github.com/techux/LearningReactJS/tree/main/form-handling#output-screenshot)
 3. [Transferring Data Between Components Using a Form](https://github.com/techux/LearningReactJS/tree/main/learnComponents#output-screenshot)
 4. [Rendering JSON Data](https://github.com/techux/LearningReactJS/tree/main/render-json#output-screenshot)
+4. [E-Commerce Product API Integration](https://github.com/techux/LearningReactJS/tree/main/api-integration#output-screenshot)
